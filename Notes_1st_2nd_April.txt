@@ -1,0 +1,21 @@
+SOCKETS
+Sockets.IO  -> Javascript Library
+    real-time bidirectional event based communication.
+
+    WebSockets API (clientside) -> enable two way communication between browser and node.
+
+    Ex.
+        Chat Apps
+        Online Games
+        Push Notifications
+    
+    Consists of two Parts
+    1. Client side Lib
+        socket.io-clients
+        #npm i socket.io-client
+    2. Server side Library -> node.js
+        socket.io
+        npm i socket.io
+Note: Install Node 
+
+
